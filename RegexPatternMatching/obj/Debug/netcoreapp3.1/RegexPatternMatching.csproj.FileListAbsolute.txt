@@ -1,0 +1,13 @@
+C:\Users\Dell\DotNetProjects\RegexPatternMatching\RegexPatternMatching\bin\Debug\netcoreapp3.1\RegexPatternMatching.exe
+C:\Users\Dell\DotNetProjects\RegexPatternMatching\RegexPatternMatching\bin\Debug\netcoreapp3.1\RegexPatternMatching.deps.json
+C:\Users\Dell\DotNetProjects\RegexPatternMatching\RegexPatternMatching\bin\Debug\netcoreapp3.1\RegexPatternMatching.runtimeconfig.json
+C:\Users\Dell\DotNetProjects\RegexPatternMatching\RegexPatternMatching\bin\Debug\netcoreapp3.1\RegexPatternMatching.runtimeconfig.dev.json
+C:\Users\Dell\DotNetProjects\RegexPatternMatching\RegexPatternMatching\bin\Debug\netcoreapp3.1\RegexPatternMatching.dll
+C:\Users\Dell\DotNetProjects\RegexPatternMatching\RegexPatternMatching\bin\Debug\netcoreapp3.1\RegexPatternMatching.pdb
+C:\Users\Dell\DotNetProjects\RegexPatternMatching\RegexPatternMatching\obj\Debug\netcoreapp3.1\RegexPatternMatching.csprojAssemblyReference.cache
+C:\Users\Dell\DotNetProjects\RegexPatternMatching\RegexPatternMatching\obj\Debug\netcoreapp3.1\RegexPatternMatching.AssemblyInfoInputs.cache
+C:\Users\Dell\DotNetProjects\RegexPatternMatching\RegexPatternMatching\obj\Debug\netcoreapp3.1\RegexPatternMatching.AssemblyInfo.cs
+C:\Users\Dell\DotNetProjects\RegexPatternMatching\RegexPatternMatching\obj\Debug\netcoreapp3.1\RegexPatternMatching.csproj.CoreCompileInputs.cache
+C:\Users\Dell\DotNetProjects\RegexPatternMatching\RegexPatternMatching\obj\Debug\netcoreapp3.1\RegexPatternMatching.dll
+C:\Users\Dell\DotNetProjects\RegexPatternMatching\RegexPatternMatching\obj\Debug\netcoreapp3.1\RegexPatternMatching.pdb
+C:\Users\Dell\DotNetProjects\RegexPatternMatching\RegexPatternMatching\obj\Debug\netcoreapp3.1\RegexPatternMatching.genruntimeconfig.cache

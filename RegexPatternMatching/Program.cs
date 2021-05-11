@@ -8,9 +8,12 @@ namespace RegexPatternMatching
         {
             Patterns pattern = new Patterns();
             Console.WriteLine("Enter the first name");
-            string Name = Console.ReadLine();
-            // Console.WriteLine(pattern.isValidFirstName(Name));
-            pattern.isValidFirstName(Name);
+            string FName = Console.ReadLine();
+            pattern.isValidFirstName(FName);
+            Console.WriteLine("Enter last name");
+            string LName = Console.ReadLine();
+            pattern.isValidLastName(LName);
+              
         }
     }
 }

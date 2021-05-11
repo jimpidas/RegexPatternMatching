@@ -7,7 +7,10 @@ namespace RegexPatternMatching
         static void Main(string[] args)
         {
             Patterns pattern = new Patterns();
-            Console.WriteLine(pattern.validatePinCode("400088"));
+            Console.WriteLine("Enter the first name");
+            string Name = Console.ReadLine();
+            // Console.WriteLine(pattern.isValidFirstName(Name));
+            pattern.isValidFirstName(Name);
         }
     }
 }
